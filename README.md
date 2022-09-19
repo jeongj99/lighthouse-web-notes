@@ -2,4 +2,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by [Jae Yun](https://gist.github.com/jeongj99) for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Jae Yun](https://github.com/jeongj99) for the Lighthouse Labs Web Development Bootcamp.
